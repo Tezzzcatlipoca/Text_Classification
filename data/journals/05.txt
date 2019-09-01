@@ -1,0 +1,244 @@
+Early Journal Content on JSTOR, Free to Anyone in the World 
+
+This article is one of nearly 500,000 scholarly works digitized and made freely available to everyone in 
+the world byJSTOR. 
+
+Known as the Early Journal Content, this set of works include research articles, news, letters, and other 
+writings published in more than 200 of the oldest leading academic journals. The works date from the 
+mid-seventeenth to the early twentieth centuries. 
+
+We encourage people to read and share the Early Journal Content openly and to tell others that this 
+resource exists. People may post this content online or redistribute in any way for non-commercial 
+purposes. 
+
+Read more about Early Journal Content at http://about.istor.org/participate-istor/individuals/early- 
+journal-content . 
+
+
+
+JSTOR is a digital library of academic journals, books, and primary source objects. JSTOR helps people 
+discover, use, and build upon a wide range of content through a powerful research and teaching 
+platform, and preserves this content for future generations. JSTOR is part of ITHAKA, a not-for-profit 
+organization that also includes Ithaka S+R and Portico. For more information about JSTOR, please 
+contact support@jstor.org. 
+
+
+
+August 14, 1914 2128 
+
+STUDIES ON THE SELF-PURIFICATION OF STREAMS.' 
+
+By Eaele B. Phelps, Professor of Chemistry, Hygienic Laboratory, United States Public Health Service. 
+
+The extensive sanitary investigations that are being carried out by 
+the United States Public Health Service upon the Potomac River 
+under the direction of Surg. Hugh S. Cumftiing and upon the Ohio 
+River under the direction of Passed Asst. Surg. Wade H. Frost offer 
+an unprecedented opportunity for the collection and study of certain 
+basic data necessary to a general discussion of the principles of the 
+self-purification of streams. From a strictly sanitary viewpoint a 
+study of this phenomenon centers about the Ufe of pathogenic bacteria 
+in water, while from the point of view of nuisance it is concerned with 
+the biological oxidation of organic matter. The present discussion 
+is confined to the latter aspect of the problem. 
+
+The self-purification of streams is in no way a unique or remarkable 
+process. It is essentially like the oxidation and destruction of 
+organic matter by the soil. In the case of a polluted stream, how- 
+ever, ideal conditions for oxidation may exist, and these, assisted by 
+other factors, such as dilution and sedimentation, combine to produce 
+such improvement that the phenomenon has ever been regarded as 
+one peculiar to itself. 
+
+The reactions involved in this process are essentially biochemical 
+reactions. For their occurrence it is necessary to bring together oxi- 
+dizable organic matter, oxygen, and oxidizing bacteria. The first 
+and last are necessarily present in polluted waters, so that questions 
+of stream purification and prevention of nuisance reduce to one of 
+oxygen supply. 
+
+Atmospheric oxygen tends to re-enter the water in proportion as 
+the oxygen content of the water is lowered by the oxidation of 
+organic matter. The intensity of the driving force of re-aeration is a 
+direct function of the lowering of this oxygen content. It is at a 
+maximum in a completely deoxygenated water, and this is, therefore, 
+the condition of maximum oxidizing work in any stream. This con- 
+dition, however, is also one of maximum nuisance and is not to be tol- 
+erated. Such an anaerobic stream gives off foul odors and is black 
+and imsightly in appearance. 
+
+It becomes a matter of some importance, therefore, to determine 
+the minimum value which the dissolved oxygen of the stream may 
+reach before conditions approach the nuisance stage. This point 
+practically fixes the capacity of the stream in question to care for 
+pollution. The lower the permissible oxygen concentration the 
+greater the proportion of the initial dissolved oxygen of the water 
+
+' Condensed from a paper read before the American Chemical Society, at Cincinnati, Ohio, September, 
+1913. 
+
+
+
+2129 August 14, 1914 
+
+available for the oxidizing reaction, and the greater the capacity of 
+the stream to absorb oxygen from the atmosphere. 
+
+Upon this question of permissible oxygen reduction, there are many 
+diverse opinions and very little real knowledge. This point must be 
+definitely determined before any general discussion of the capacity 
+of streams for self-purification becomes possible. 
+
+The second and most important factor in self-purification is the 
+degree of agitation of the stream. The rate of re-aeration of water 
+depends not only upon the oxygen concentration existing at the 
+time but upon the vertical distribution of that concentration. As- 
+sume, for example, that the water is uniformly mixed and quiescent. 
+Absorption at the surface leads to a downward diffusion which in 
+time establishes a gradiant ranging from essential saturation in the 
+upper film to the initial concentration at some point below. The 
+diffusion process becomes slower as the curve of distribution of 
+oxygen becomes flatter. In practice, quiescent water, even though 
+it start with zero oxygen concentration at all points, will, except 
+in shallow layers, come to a condition of practical equilibrium with 
+very low average oxygen concentration. Beyond this point the 
+diffusion process is exceedingly slow. Mixing of the water, after 
+such a condition has become established, reestablishes the even 
+distribution and allows the absorption to proceed toward a new 
+condition of equilibrium. It is apparent, therefore, that, as condi- 
+tions depart more and more from the condition of complete quies- 
+cence, the rate of reaeration is increased accordingly. The depar- 
+tures from quiescence may be definitely stated, and are more easily 
+conceived, as the average time between uniform mixings. This 
+form of expression is used, not only because it gives a workable 
+statement of the degree of agitation in a stream, but because such a 
+time factor appears in any formula for re-aeration derived from the 
+laws of solubility and of diffusion. Such a formula was developed 
+by Col. William M. Black, Corps of Engineers, United States Army, 
+and the writer in an investigation of the pollution of New York 
+Harbor. In that case it was possible to determine the average time 
+between mixings from a study of the mixing effect of winds, vessels, 
+and tidal currents. The re-aeration calculated from this theoretical 
+formula, using the determined time factors, was in close agreement 
+with the actual values found during the subsequent year and thus 
+gave satisfactory confirmation of the accuracy of the method. With 
+the deep and relatively quiescent waters of New York Harbor re- 
+aeration was found to be almost a negligible factor. The capacity of 
+such a body of water to oxidize pollution is practically limited by 
+the amount of available oxygen brought in from the ocean with 
+each tide. 
+
+
+
+August li, 1914 2130 
+
+In rivers the conditions are reversed. The initial volume of avail- 
+able oxygen is small compared with the total capacity of the stream 
+to oxidize pollution. Re-aeration in rivers is the chief factor. The 
+time between mixings instead of being measured in hours is probably 
+measured in minutes, and its actual determination from direct obser- 
+vations can not be made with even workable precision. It becomes 
+necessary, therefore, to reverse our process of reasoning, to learn by 
+suitable methods the actual extent of re-aeration, and thence to derive 
+the time factor in the original aeration formula. This factor wiU 
+vary with the depth, character of the river bed, and rapidity of flow. 
+It will differ, therefore, for various rivers and for various sections of 
+each river, but should be similar for similar types of stream. If it 
+can be determined for a sufficiently large number of typical stream 
+stretches, it may be possible to deduce general formulas which wiU 
+be applicable to other streams of similar type. It should then be 
+possible to estimate the capacity of a given river to dispose of pollu- 
+tion without objectionable results, or, conversely, the effect of any 
+stated pollution upon a river of given type. 
+
+The actual rate of re-aeration in a polluted stream can not, unfor- 
+tunately, be determined directly. In spite of re-aeration a stream at 
+any given point may be losing oxygen, or in oxygen equihbrium, 
+since at all times the biochemical reaction tending to reduce the 
+oxygen is opposed to the actual re-aeration. It is necessary, there- 
+fore, to develop suitable chemical methods for the separation of these 
+opposing tendencies. 
+
+Consider first an ideal situation with two sampling stations on the 
+stream between which stations there is no increment either to the 
+pollution or to the volume of the stream. These conditions can not, 
+as a rule, be obtained and it is necessary to make suitable correction 
+for the interference of additional pollution or additional dilution. 
+The oxidizing reaction has been studied in the laboratory sufficiently 
+to show that it follows a fairly definite course and, like all biochemical 
+reactions, is essentially monomolecular in its order^ This means 
+. that it proceeds at a constant rate or velocity so that the concen- 
+tration of oxidizible material decreases as a logarithmic function of 
+the time. A sample of the water from the upper station is submitted 
+to study for the determination of three things : The available oxygen 
+which it contains; the total amount of oxygen which wiU be required 
+for the completion of the oxidizing reaction, known as the oxygen 
+demand; and the velocity with which that reaction proceeds. The 
+sample from the lower station is submitted to the same examination. 
+Since any loss of available oxygen must, by oxidation, give rise to 
+an equivalent loss in the oxygen demand, the difference of these two 
+terms remains constant throughout the course of the reaction in the 
+absence of re-aeration. Any increase in dissolved oxygen at the 
+
+
+
+21 3 J August 14. 1914 
+
+lower station over the value calculated from the results of examina- 
+tions at the upper station is therefore due to aeration. Correction 
+for additional pollution or dilution between the stations is made by 
+means of the velocity of reaction determinations. From the deter- 
+mination at the upper station and the known time required for water 
+to pass from one station to the other the concentration of reacting 
+substance at the lower station is calculated. With increasing dilu- 
+tion the concentration is decreased, while with increasing pollution 
+it is increased. Any change m the concentration, calculated from 
+an assumed constant velocity of reaction, indicates an equivalent 
+change in dilution or pollution between these stations. It is obvious 
+that these two factors are opposed to one another in a plus and minus 
+sense and that if the added water were of the same character relative 
+to its pollution as the water under investigatioa, the correction factor 
+would disappear. In brief, from the known constant velocity of 
+reaction, stated in terms of physical chemistry, are determined 
+changes in the concentration of the reacting substances, namely, 
+pollution. 
+
+The actual laboratory technique of these determinatiors is simple. 
+The usual dissolved oxygen determinations are made upon a freshly 
+collected sample; a second sample is incubated at 20° C. and a dis- 
+solved oxygen determination made upon it at the end of any con- 
+venient period, usually 24 or 48 hours. The differences between these 
+two results is the oxidation that has taken place in the interval. 
+Knowing the form of the reaction curve, one computes from this, 
+first, the velocity coefficient of the reaction and then, by exterpola- 
+tion to a very long time, the total oxygen demand of the polluting 
+organic matter. These two determinations at each station furnish 
+the required data. There are, however, many points that require 
+special attention. It is necessary in the first place to secure an ade- 
+quate sample of the entire cross section of a stream. This iiivolves 
+the careful selection of sample stations and the sampling of a stream 
+at various points in the cross section both vertically and horizontally. 
+It is desirable in the second place to select stretches involvirg a 
+minimum correction for additional pollution or dilution aid it is 
+quite necessary finally to consider the effect of sedimentation. This 
+can only be arrived at by a study of the surface of the river bottom. 
+A special apparatus is necessary for the withdrawal of the surface 
+deposit from a given area of bottom between stations from time to 
+time. A new reaction velocity must be determined for this deposited 
+material and suitable correction made to the average findings in the 
+water above for the period between the two bottom mud surveys. 
+Finally the temperature of the river is not that at which the incuba- 
+tions are made. The temperature coefficient of the reaction must be 
+known and suitable correction applied. 
+
+
+
+August 14, 1914 2132 
+
+Studies of this character are being made a part of both river raves- 
+tigations alluded to and it is to be hoped as a result of these studies 
+that sanitarians will be ia a position to discuss with much more 
+assurance than at present the general principles which underlie the 
+phenomenon of the self-purification of streams. 
+
+
