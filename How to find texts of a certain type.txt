@@ -1,0 +1,30 @@
+-Scientific texts
+-News articles: sports [Guardian, Google, Reuters, archive.org]
+-News articles: politics
+-News articles: science
+-News articles: arts
+-Fiction: children [Gutenberg, 
+-Fiction: sci-fi
+-Fiction: romanticism
+-Fiction: naturalism
+-Fiction: magic realism
+-Fiction: detective novel
+-Fiction: fantasy
+
+Further:
+Differentiate between:
+-Fiction: Self-published authors
+-Fiction: Best sellers
+-Fiction: Nobel writers
+
+Differentiate between two writers:
+-Arthur Connan Doyle
+-Agatha Christie
+-Dorothy Sayers (or similar)
+
+NOTES:
+To find style, it may be worth exploring:
+-extracting (and comparing) keywords from verbs exclusively.
+-building a style catalogue (a group of works representative of each style)
+	
+
